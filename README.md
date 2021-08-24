@@ -1,7 +1,7 @@
 ### Olá, Me chamo Geovane Silva!👋
 
 - 🔭 Eu trabalho como Assistente de Informática no SINMED-RN.
-- 🌱 Eu atualmente curso Bacharelado em Sistemas de Informação - Faculdade Estácio. Além de fazer cursos online de Java, SpringBoot, Flutter e entre outras tecnologias. 
+- 🌱 Eu atualmente estou cursando Sistemas de Informação (6º Periodo) - Faculdade Estácio. Além de fazer cursos online de Java, SpringBoot, Flutter e entre outras tecnologias. 
 
  <div>
   <a href="https://github.com/geovanesilvahr">
