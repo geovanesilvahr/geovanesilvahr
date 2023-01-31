@@ -1,7 +1,9 @@
-### Olá, Me chamo Geovane Silva!👋
+### Olá, Meu chamo Geovane Silva!👋 Mas se quiser, pode me chamar de Geo!
 
-- 🔭 Eu trabalho como Assistente de Informática no SINMED-RN.
-- 🌱 Possuo curso completo de Python Multiplataforma com Framework Kivy - Udemy.com. E atualmente estou cursando Sistemas de Informação (8º Periodo) - Faculdade Estácio. Além de fazer cursos online de Java, Spring, Angular e entre outras tecnologias.
+- 🔭 Hoje eu trabalho como Assistente de Informática no SINMED-RN.
+- 🌱 Possuo curso completo de Python Multiplataforma com Framework Kivy - Udemy.com. E atualmente estou concluindo o curso Sistemas de Informação na Faculdade Estácio. Além de fazer cursos online de Java, Spring, Angular e entre outras tecnologias.
+- 🎯 Tenho como foco o Desenvolvimento Web, onde tenho grande desejo de seguir carreira profissional. Adoro ver uma requisição sendo executada depois de apertar um botão... hehe'.
+- ❤ E pra você que não me conhece, adoro ouvir música e jogar um pouco com colegas e amigos.🎧🎮
 
  <div>
   <a href="https://github.com/geovanesilvahr">
