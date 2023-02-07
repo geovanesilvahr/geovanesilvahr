@@ -3,7 +3,7 @@
 - 🔭 Hoje eu trabalho como Assistente de Informática no SINMED-RN.
 - 🌱 Possuo curso completo de Python Multiplataforma com Framework Kivy - Udemy.com. E atualmente estou concluindo o curso Sistemas de Informação na Faculdade Estácio. Além de fazer cursos online de Java, Spring, Angular e entre outras tecnologias.
 - 🎯 Tenho como foco o Desenvolvimento Web, onde tenho grande desejo de seguir carreira profissional. Adoro ver uma requisição sendo executada depois de apertar um botão... hehe'.
-- ❤ E pra você que não me conhece, adoro ouvir música e jogar um pouco com colegas e amigos.🎧🎮
+- ❤ E pra você que não me conhece, adoro ouvir música e jogar um pouco com amigos.🎧🎮
 
  <div>
   <a href="https://github.com/geovanesilvahr">
