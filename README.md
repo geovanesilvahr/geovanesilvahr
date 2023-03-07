@@ -1,9 +1,9 @@
-### Olá, Meu chamo Geovane Silva!👋
+# Olá, Meu chamo Geovane Silva!👋
 
-- 🔭 Hoje eu trabalho como Assistente de Informática no SINMED-RN.
-- 🌱 Possuo curso completo de Python3. E atualmente estou me formando em Sistemas de Informação - Faculdade Estácio. Além de fazer cursos online de Java, Spring, Angular e entre outras tecnologias.
-- 🎯 Tenho como foco o Desenvolvimento Web, onde tenho grande desejo de seguir carreira profissional. Adoro ver uma requisição sendo executada depois de apertar um botão... hehe'.
-- 😁 E pra você que não me conhece: Tenho 25 anos, Cristão, tenho duas filhas felinas 🐈 e amo jogar de vez em quando.🎮
+- 👨🏻‍💻 Hoje eu trabalho como Assistente de Informática no SINMED-RN.
+- 👨🏻‍🎓 Possuo curso completo de Python3. E atualmente estou me formando em Sistemas de Informação - Faculdade Estácio. Além de fazer cursos online de Java, Spring, Angular e entre outras tecnologias.
+- 🎯 Tenho como foco o Desenvolvimento Web, onde busco seguir na carreira profissional.
+- 😃 E pra você que não me conhece: Tenho 25 anos, Casado e com duas filhas felinas ❤🐈 e amo jogar de vez em quando.🎮
 
  <div>
   <a href="https://github.com/geovanesilvahr">
