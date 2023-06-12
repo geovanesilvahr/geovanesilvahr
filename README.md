@@ -3,7 +3,6 @@
 - 👨🏻‍💻 Hoje eu trabalho como Assistente de Informática no SINMED-RN.
 - 👨🏻‍🎓 Possuo curso completo de Python3. Atualmente estou me formando em Sistemas de Informação - Faculdade Estácio; além de fazer cursos online, procurando sempre estar atualizado conforme o mercado. 
 - 🎯 Tenho como foco o Desenvolvimento Web, onde busco seguir na carreira profissional.
-- 😃 E pra você que não me conhece: Tenho 25 anos, Casado e com duas filhas felinas.🐈❤
 
  <div>
   <a href="https://github.com/geovanesilvahr">
