@@ -1,7 +1,7 @@
 # Olá, Meu chamo Geovane Silva!👋
 
-- 👨🏻‍🎓 Possuo curso completo de Python3. Atualmente sou Bacharel em Sistemas de Informação - Faculdade Estácio; além de fazer cursos online, procurando sempre estar atualizado conforme o mercado. 
-- 🎯 Tenho como foco o Desenvolvimento Web, onde busco seguir na carreira profissional, com foco em me tornar um Desenvolvedor Fullstack Web.
+- 👨🏻‍🎓 Sou Bacharel em Sistemas de Informação; Possuo curso Completo de Python3 Multiplataforma; e estou focado em adquirir conhecimentos e desenvolver projetos web usando Angular, Java, Spring e PostreSQL.
+- 🎯 Tenho como foco o Desenvolvimento Web, onde busco seguir na carreira profissional, com foco em me tornar um Desenvolvedor Fullstack.
 
  <div>
   <a href="https://github.com/geovanesilvahr">
