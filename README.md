@@ -1,6 +1,6 @@
 # Olá, Meu nome é Geovane Silva!👋
 
-- 👨🏻‍🎓 Bacharel em Sistemas de Informação pela Universida Estácio; Possuo curso Completo de Python3 Multiplataforma; e estou focado em adquirir conhecimentos e desenvolver projetos web usando Angular, Java, Spring e PostreSQL.
+- 👨🏻‍🎓 Bacharel em Sistemas de Informação pela Universidade Estácio; Possuo curso Completo de Python3 Multiplataforma; e estou focado em adquirir conhecimentos e desenvolver projetos web usando Angular, Java, Spring e PostreSQL.
 - 🎯 Tenho como foco o Desenvolvimento Web, onde busco seguir na carreira profissional, com foco em me tornar um Desenvolvedor Fullstack.
 
  <div>
