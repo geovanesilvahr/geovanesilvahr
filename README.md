@@ -1,7 +1,7 @@
 # Hello There! My name is Geovane Silva!👋
 
-- 👨🏻‍🎓 I'm Bachelor in Information Systems from Estácio de Sá University, i'm Hardware and Network Analyst and i'm focused on acquiring knowledge and development web project using Angular, Typescript, Python, Django, PostreSQL, and outhers. 
-- 🎯 My focus is Web Development, where i want to follow in my professional career.
+- 👨🏻‍🎓 I'm Bachelor in Information Systems from Estácio de Sá University, i'm Hardware and Network Analyst and i'm focused on acquiring knowledge and development web project using Angular, Typescript, Python, Django, PostreSQL, and others. 
+- 🎯 My focus is Web Development, where i want to create my professional career.
 
  <div>
   <a href="https://github.com/geovanesilvahr">
