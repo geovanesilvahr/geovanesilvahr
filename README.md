@@ -1,7 +1,7 @@
-# Olá, Meu nome é Geovane Silva!👋
+# Hello There! My name is Geovane Silva!👋
 
-- 👨🏻‍🎓 Bacharel em Sistemas de Informação pela Universidade Estácio; Possuo curso Completo de Python3 Multiplataforma; e estou focado em adquirir conhecimentos e desenvolver projetos web usando Angular, Java, Spring e PostreSQL.
-- 🎯 Tenho como foco o Desenvolvimento Web, onde busco seguir na carreira profissional, com foco em me tornar um Desenvolvedor Fullstack.
+- 👨🏻‍🎓 I'm Bachelor in Information Systems from Estácio de Sá University, i'm Hardware and Network Analyst and i'm focused on acquiring knowledge and development web project using Angular, Typescript, Python, Django, PostreSQL, and outhers. 
+- 🎯 My focus is Web Development, where i want to follow in my professional career.
 
  <div>
   <a href="https://github.com/geovanesilvahr">
